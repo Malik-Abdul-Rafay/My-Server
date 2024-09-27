@@ -1,0 +1,104 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Rose Garden Restaurant",
+      "img": "https://images.pexels.com/photos/20003229/pexels-photo-20003229/free-photo-of-fast-food-on-a-tray.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "categories": ["Burger", "Wings"],
+      "address": "Kharadar, Karachi, Pakistan",
+      "reviews": "4.8",
+      "timing": "10:00 AM - 10:00 PM",
+      "deliveryPrice": "Free",
+      "deliveryTiming": "20 min",
+      "items": [
+        {"id": 1, "name": "Cheeseburger", "price": "80", "img": "https://images.pexels.com/photos/3738730/pexels-photo-3738730.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", "restaurant": "Rose Garden Restaurant"},
+        {"id": 2, "name": "Buffalo Wings", "price": "120", "img": "https://th.bing.com/th/id/R.2645e4fda063e738131b5a3d7c5486ca?rik=c72JYDnVb%2fQLwg&pid=ImgRaw&r=0", "restaurant": "Rose Garden Restaurant"},
+        {"id": 3, "name": "Onion Rings", "price": "60", "img": "https://th.bing.com/th/id/OIP.YEHWXENJ1FkXvnGTgmKwdwHaE7?w=626&h=417&rs=1&pid=ImgDetMain", "restaurant": "Rose Garden Restaurant"},
+        {"id": 4, "name": "Fries", "price": "50", "img": "https://images.pexels.com/photos/1893555/pexels-photo-1893555.jpeg?auto=compress&cs=tinysrgb&w=600", "restaurant": "Rose Garden Restaurant"},
+        {"id": 5, "name": "Milkshake", "price": "80", "img": "https://img.freepik.com/premium-photo/milkshake-consisting-three-flavors-vanilla-chocolate-strawberry_908985-14060.jpg", "restaurant": "Rose Garden Restaurant"},
+        {"id": 6, "name": "Chicken Nuggets", "price": "70", "img": "https://thumbs.dreamstime.com/b/fried-chicken-nuggets-19229253.jpg", "restaurant": "Rose Garden Restaurant"},
+        {"id": 7, "name": "Garlic Bread", "price": "40", "img": "https://images.pexels.com/photos/9951852/pexels-photo-9951852.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", "restaurant": "Rose Garden Restaurant"}
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Spicy Grill",
+      "img": "https://images.pexels.com/photos/18698230/pexels-photo-18698230/free-photo-of-food-photography.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "categories": ["Grill", "Seafood"],
+      "address": "Saddar, Karachi, Pakistan",
+      "reviews": "4.5",
+      "timing": "11:00 AM - 11:00 PM",
+      "deliveryPrice": "50",
+      "deliveryTiming": "30 min",
+      "items": [
+        {"id": 8, "name": "Grilled Salmon", "price": "250", "img": "https://images.pexels.com/photos/2739250/pexels-photo-2739250.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", "restaurant": "Spicy Grill"},
+        {"id": 9, "name": "BBQ Chicken", "price": "180", "img": "https://images.pexels.com/photos/13304044/pexels-photo-13304044.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", "restaurant": "Spicy Grill"},
+        {"id": 10, "name": "Grilled Vegetables", "price": "120", "img": "https://images.pexels.com/photos/14774996/pexels-photo-14774996.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", "restaurant": "Spicy Grill"},
+        {"id": 11, "name": "Steak", "price": "300", "img": "https://images.pexels.com/photos/7627422/pexels-photo-7627422.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", "restaurant": "Spicy Grill"},
+        {"id": 12, "name": "Garlic Shrimp", "price": "220", "img": "https://images.pexels.com/photos/5966249/pexels-photo-5966249.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", "restaurant": "Spicy Grill"},
+        {"id": 13, "name": "Corn on the Cob", "price": "80", "img": "https://th.bing.com/th/id/OIP.fOS9ZmDm4cZMn90lkdW2jQHaE8?w=2200&h=1467&rs=1&pid=ImgDetMain", "restaurant": "Spicy Grill"},
+        {"id": 14, "name": "Coleslaw", "price": "70", "img": "https://th.bing.com/th/id/OIP.N6MLA53bmY8DlSUd8bAc8wAAAA?rs=1&pid=ImgDetMain", "restaurant": "Spicy Grill"}
+      ]
+    },
+    {
+      "id": 3,
+      "name": "The Pasta Place",
+      "img": "https://images.pexels.com/photos/14853728/pexels-photo-14853728.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "categories": ["Pasta", "Italian"],
+      "address": "Clifton, Karachi, Pakistan",
+      "reviews": "4.7",
+      "timing": "12:00 PM - 12:00 AM",
+      "deliveryPrice": "Free",
+      "deliveryTiming": "25 min",
+      "items": [
+        {"id": 15, "name": "Spaghetti Carbonara", "price": "150", "img": "https://images.pexels.com/photos/26597663/pexels-photo-26597663/free-photo-of-close-up-of-pasta-with-meat.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", "restaurant": "The Pasta Place"},
+        {"id": 16, "name": "Fettuccine Alfredo", "price": "170", "img": "https://www.modernhoney.com/wp-content/uploads/2018/08/Fettuccine-Alfredo-Recipe-1.jpg", "restaurant": "The Pasta Place"},
+        {"id": 17, "name": "Lasagna", "price": "200", "img": "https://th.bing.com/th/id/R.1566ed572beed5078be5babe1bf0e072?rik=JlzG4QcjO64dxQ&riu=http%3a%2f%2fwww.cookitaliano.com%2fimmagini_cms_icuoco%2f2014102213030865185236_1.jpg&ehk=Qxcj5kOwu8SYMtYb1qQ%2fD0pelhJegy%2bqclN4TT%2bpuUQ%3d&risl=&pid=ImgRaw&r=0", "restaurant": "The Pasta Place"},
+        {"id": 18, "name": "Penne Arrabbiata", "price": "160", "img": "https://www.thecountrycook.net/wp-content/uploads/2023/02/thumbnail-Penne-Pasta-with-Tomato-Sauce-768x768.jpg", "restaurant": "The Pasta Place"},
+        {"id": 19, "name": "Ravioli", "price": "180", "img": "https://th.bing.com/th/id/R.4aa81e18d5d8bad542b6d104c0f2a21f?rik=%2b39YcFLcgUZ3%2bA&riu=http%3a%2f%2fblog.superabc.com.br%2fwp-content%2fuploads%2f2020%2f09%2fravioli-1536x1024.jpg&ehk=5%2bioqyDVaM92PiDasIaxATYXE5oNWplundvjcI84VyI%3d&risl=&pid=ImgRaw&r=0", "restaurant": "The Pasta Place"},
+        {"id": 20, "name": "Caprese Salad", "price": "120", "img": "https://www.jocooks.com/wp-content/uploads/2011/05/chef-salad-1-1.jpg", "restaurant": "The Pasta Place"},
+        {"id": 21, "name": "Garlic Bread", "price": "50", "img": "https://th.bing.com/th/id/OIP.fIULW6TQMsVPzxqb0pTC1wAAAA?rs=1&pid=ImgDetMain", "restaurant": "The Pasta Place"}
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Sushi World",
+      "img": "https://static.vinwonders.com/production/asian-food-2-675x451.jpg",
+      "categories": ["Sushi", "Japanese"],
+      "address": "Gulshan-e-Iqbal, Karachi, Pakistan",
+      "reviews": "4.9",
+      "timing": "1:00 PM - 10:00 PM",
+      "deliveryPrice": "100",
+      "deliveryTiming": "20 min",
+      "items": [
+        {"id": 22, "name": "California Roll", "price": "200", "img": "https://th.bing.com/th/id/OIP.1cLgPgf1fsrjZBTKoCNKWAHaEO?w=1344&h=768&rs=1&pid=ImgDetMain", "restaurant": "Sushi World"},
+        {"id": 23, "name": "Tuna Sashimi", "price": "250", "img": "https://i.pinimg.com/originals/6f/c1/6b/6fc16bbebbb8121a86f12895a6177e95.jpg", "restaurant": "Sushi World"},
+        {"id": 24, "name": "Miso Soup", "price": "80", "img": "https://flannerys.com.au/wp-content/uploads/2017/06/500x500_misosoup-300x300.jpg", "restaurant": "Sushi World"},
+        {"id": 25, "name": "Tempura", "price": "150", "img": "https://th.bing.com/th/id/OIP.M_h6combStO3kuYG4tTcJgAAAA?rs=1&pid=ImgDetMain", "restaurant": "Sushi World"},
+        {"id": 26, "name": "Edamame", "price": "90", "img": "https://th.bing.com/th/id/OIP.zMSyMjsm4DPPHc06H-fg6AAAAA?rs=1&pid=ImgDetMain", "restaurant": "Sushi World"},
+        {"id": 27, "name": "Spicy Tuna Roll", "price": "220", "img": "https://th.bing.com/th/id/OIP.4IMu3Dkwk0ARpr5j8KE7ogHaHu?rs=1&pid=ImgDetMain", "restaurant": "Sushi World"},
+        {"id": 28, "name": "Sushi Set", "price": "300", "img": "https://th.bing.com/th/id/OIP.D3FBTAfdFewt8D_kUvAsSgHaFA?rs=1&pid=ImgDetMain", "restaurant": "Sushi World"}
+      ]
+    },
+    {
+      "id": 5,
+      "name": "The Taco Stand",
+      "img": "https://th.bing.com/th/id/OIP.QTdh3Fm6wA9Suk_WlDBYPwHaFF?rs=1&pid=ImgDetMain",
+      "categories": ["Mexican", "Tacos"],
+      "address": "Defence, Karachi, Pakistan",
+      "reviews": "4.6",
+      "timing": "10:00 AM - 11:00 PM",
+      "deliveryPrice": "60",
+      "deliveryTiming": "25 min",
+      "items": [
+        {"id": 29, "name": "Beef Tacos", "price": "130", "img": "https://th.bing.com/th/id/R.dde54c0951a0b238d0d55b3d69621519?rik=5eqpXV2tNq%2b8Kg&pid=ImgRaw&r=0", "restaurant": "The Taco Stand"},
+        {"id": 30, "name": "Chicken Tacos", "price": "120", "img": "https://th.bing.com/th/id/OIP.2iI57yYt3d_wfnfOjsb4xQAAAA?rs=1&pid=ImgDetMain", "restaurant": "The Taco Stand"},
+        {"id": 31, "name": "Quesadilla", "price": "140", "img": "https://th.bing.com/th/id/R.efcd1099e6c72187cdb8d2e4a84e337f?rik=vlwpob%2boKavREA&pid=ImgRaw&r=0", "restaurant": "The Taco Stand"},
+        {"id": 32, "name": "Nachos", "price": "90", "img": "https://th.bing.com/th/id/OIP.-Xh140eUjnfzR28NsPD8_AAAAA?rs=1&pid=ImgDetMain", "restaurant": "The Taco Stand"},
+        {"id": 33, "name": "Burritos", "price": "160", "img": "https://th.bing.com/th/id/OIP.r6LFK53f_dc8elMrtZlUSAAAAA?rs=1&pid=ImgDetMain", "restaurant": "The Taco Stand"},
+        {"id": 34, "name": "Churros", "price": "70", "img": "https://th.bing.com/th/id/OIP.i5urRTeFpZ8UNwNwfVVNjQAAAA?rs=1&pid=ImgDetMain", "restaurant": "The Taco Stand"},
+        {"id": 35, "name": "Mexican Rice", "price": "100", "img": "https://th.bing.com/th/id/R.909b4b552b35e40606bae4ad4905bb27?rik=okHxTzaC3e6fmA&riu=http%3a%2f%2fwildflourskitchen.com%2fwp-content%2fuploads%2f2014%2f01%2fmexican-black-beans-rice.jpg&ehk=cDT5yRFWiTB%2bxZ4UUqjFJCBD3cX%2fE6DLE9T%2fb2WpalI%3d&risl=&pid=ImgRaw&r=0", "restaurant": "The Taco Stand"}
+      ]
+    }
+  ]
+}
